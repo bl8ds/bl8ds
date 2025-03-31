@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bl8ds
+- 👋 Hi, I’m bailu
 - 👀 I’m interested in Product
 - 🌱 I’m currently learning AIGC
 - 💞️ I’m looking to collaborate on ...
